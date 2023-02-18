@@ -1,4 +1,4 @@
-# drawingApp
+# DRAWING APP
 
 ## Tech Stack = 
 - HTML
